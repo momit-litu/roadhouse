@@ -1,5 +1,6 @@
 
 ignored the folders/files
+
 /vendor
 /admin/theme
 /admin/images
@@ -12,4 +13,5 @@ ignored the folders/files
 
 
 You need to import all the folders from backup
+composer update
 
