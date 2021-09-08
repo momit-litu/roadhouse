@@ -10,3 +10,6 @@ ignored the folders/files
 /plugin
 /authorize
 
+
+You need to import all the folders from backup
+
